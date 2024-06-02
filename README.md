@@ -3,10 +3,15 @@
 💻 My Current Tech Stack ↓
 
 ✅  ReactJS, NextJS
+
 ✅  NodeJS, Go, Python
-✅  Serverless, Microservice;
-✅  Rest API, GraphQL;
-✅  MongoDB, DynamoDB, Redis;
+
+✅  Serverless, Microservice
+
+✅  Rest API, GraphQL
+
+✅  MongoDB, DynamoDB, Redis
+
 
 ## My Latest Blog Posts 👇
 
