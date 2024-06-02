@@ -1,3 +1,13 @@
+### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px" height="20px">! Glad you stopped by!
+
+💻 My Current Tech Stack ↓
+
+✅  ReactJS, NextJS
+✅  NodeJS, Go, Python
+✅  Serverless, Microservice;
+✅  Rest API, GraphQL;
+✅  MongoDB, DynamoDB, Redis;
+
 ## My Latest Blog Posts 👇
 
 <!-- HASHNODE_BLOG:START -->
