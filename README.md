@@ -1,6 +1,6 @@
 ### <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px" height="20px"> Hi there! Glad you stopped by!
 
-💻 My Current Tech Stack ↓
+My Current Tech Stack ↓
 
 ✅  ReactJS, NextJS
 
