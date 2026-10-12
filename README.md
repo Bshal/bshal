@@ -1,36 +1,21 @@
-# Hey, glad you’re here 👋
+### <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px" height="20px"> Hi there! Glad you stopped by!
 
-I build web experiences, backend services, and the systems that connect them.
+My Current Tech Stack ↓
 
-### Currently building
+✅  ReactJS, NextJS
 
-<a href="https://dende.cloud">
-  <img src="./assets/dende-logo.png" alt="dende logo" width="76" height="76" />
-</a>
+✅  NodeJS, Go, Python
 
-## [dende.cloud ↗](https://dende.cloud)
+✅  Serverless, Microservice
 
-**Free, distributed hosting for websites, web apps, and backend APIs.**
+✅  Rest API, GraphQL
 
-Powered by spare computing power shared by the community. Deploy with one command, get automatic HTTPS, and scale as traffic grows. Workloads run separately, and secrets are encrypted at rest.
+✅  MongoDB, DynamoDB, Redis
 
-```sh
-dende deploy
-```
 
-Build on the network or lend your computer’s spare power. **Lending is optional.**
+## My Latest Blog Posts 👇
 
-**Beta coming soon** · [Apply for early access →](https://dende.cloud)
+<!-- HASHNODE_BLOG:START -->
+<p align="left"><a href="https://vortexx.hashnode.dev/singleton-pattern-a-comprehensive-guide" title="Singleton Pattern: A Comprehensive Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717323103866/dd7bdef5-63bf-452c-8302-93852fcbc57d.png" alt="Singleton Pattern: A Comprehensive Guide" width="300px" align="left" /></a><a href="https://vortexx.hashnode.dev/singleton-pattern-a-comprehensive-guide" title="Singleton Pattern: A Comprehensive Guide"><strong>Singleton Pattern: A Comprehensive Guide</strong></a><div><strong>June 2, 2024</strong></div><br/>The Singleton pattern is a design pattern that restricts the instantiation of a class to one single instance. This pattern ensures that there is a single instance of a class and provides a global point of access to it. The Singleton pattern is partic...</p><br/><br/>
 
----
-
-### Tools I work with
-
-| Area | Stack |
-| :--- | :--- |
-| Frontend | React · Next.js |
-| Backend | Node.js · Go · Python |
-| Architecture | Serverless · Microservices |
-| APIs | REST · GraphQL |
-| Data | MongoDB · DynamoDB · Redis |
-
+<!-- HASHNODE_BLOG:END -->
